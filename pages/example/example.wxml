@@ -1,0 +1,3 @@
+<!--pages/example/example.wxml-->
+
+<text class="fa fa-flag fa-5x" style="color:#ff00ff;"></text>

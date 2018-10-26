@@ -1,0 +1,8 @@
+{
+  "pages":[
+    "pages/example/example"
+  ],
+  "window": {
+    "navigationBarTitleText": "wechat-weapp-font-awesome"
+  }
+}

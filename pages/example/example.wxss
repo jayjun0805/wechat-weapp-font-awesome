@@ -1,0 +1,3 @@
+/* pages/example/example.wxss */
+
+@import "/dist/font-awesome.wxss";
