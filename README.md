@@ -9,4 +9,4 @@ Wechat Weapp FontAwesome Libarary
 
 2、在需要使用图标的页面 wxml 文件中使用。
 
-<text class="fa fa-flag fa-5x"></text>
+<view class="fa fa-flag fa-5x"></view>
